@@ -10,7 +10,7 @@ Oie ! eu sou a Clarisse,
 
 📚 Atualmente aprofundando conhecimentos em Python, SQL, Git e Segurança da Informação
 
-🎯 Áreas de Interesse
+🎯 Áreas de Interesse:
 Engenharia de Dados
 ETL
 Análise de Dados
@@ -19,5 +19,5 @@ Automação
 🛠️ Tecnologias
 PythonSQLGit
 
-📫 Contato
+📫 Contato:
 E-mail: clarisse03.amaral@gmail.com
